@@ -21,7 +21,7 @@ in the user's parental.
 ### Database and API setups
 1. Place all the php files in [Xampp Directory]/htdocs/Lookruk
 ```
-git clone https://github.com/SiripatP/LookrukApplication.git
+git clone https://github.com/NatthaponBw/LookRuk.git
 ```
 2. Open http://localhost/phpmyadmin
 3. Create a new database with UTF_8_unicode_ci schema and named it lookruk
@@ -31,7 +31,7 @@ git clone https://github.com/SiripatP/LookrukApplication.git
 ### Open Project on Unity3D
 1. Clone repository
 ```
-git clone https://github.com/SiripatP/LookrukApplication.git
+git clone https://github.com/NatthaponBw/LookRuk.git
 ```
 2. Open Unity Hub launcher open Lookruk project
 
